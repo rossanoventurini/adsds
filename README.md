@@ -10,6 +10,29 @@
 
 ## Goals and opportunities
 
+The course introduces basic data structures and algorithmic techniques that allow students to solve computational problems on the most important data types, such as sequences, sets, trees, and graphs.
+
+The lectures will be complemented by an intensive activity in laboratory.
+Students will experiment with algorithms and data structures by writing their own implementations or by using third-party libraries.
+
+The goal of the class is to enable students to design and implement efficient algorithms, choosing the most appropriate solutions in their future projects.
+
+### Syllabus
+
+- Introduction and basic definitions: algorithm, problem, instance.
+
+- Computational complexity analysis of algorithms.
+
+- Sorting: Mergesort, Quicksort and Heapsort.
+
+- Searching: Binary Search, Binary Search Tree, Trie, and Hashing.
+
+- Algorithms on Trees: representation and traversals.
+
+- Algorithms on Graphs: representation, traversals, and most important problems.
+
+- External memory model: sorting and searching.
+
 ## Exam
 
 | Type | Date | Room |
