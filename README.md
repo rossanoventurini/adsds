@@ -49,7 +49,13 @@ The goal of the class is to enable students to design and implement efficient al
 ## Lectures
 | Date | Lecture | References | Material |
 | ------------- | ------------- | ------------- | ------------- |
-| 14/02/2021 | Introduction and Python Basics| | |
-| 01/03/2021 | Introduction to analysis of algorithms| CCLR Sect. 2.1 | [Lecture Notes next 3 lectures]( Notes/Lecture\ 01-02-03.pdf)|
-| 01/03/2021 | Insertion Sort: Correctness and analysis| CCLR Sect. 2.2 | |
-| 01/03/2021 | Selection Sort: Correctness and analysis|  | [Selection Sort vs Insertion Sort ](Notes/L01_Insertion_Sort_vs_Selection_Sort.ipynb)|
+| 15/02/2021 | Introduction.  Python Basics. | Jupyter notebooks on our Google Classroom | |
+| 18/02/2021 | Python Basics and Data Structures. | Jupyter notebooks on our Google Classroom  | |
+| 19/02/2021 | Python Basics and Data Structures. | Jupyter notebooks on our Google Classroom  | |
+| 22/02/2021 | Advanced Python. | Jupyter notebooks on our Google Classroom  | |
+| 25/02/2021 | Advanced Python. | Jupyter notebooks on our Google Classroom  | |
+| 26/02/2021 | Exercises. | | |
+| 01/03/2021 | Introduction to analysis of algorithms.| CCLR Sect. 2.1 | [Lecture Notes next 3 lectures]( Notes/Lecture\ 01-02-03.pdf)|
+| 04/03/2021 | Insertion Sort: Correctness and analysis.| CCLR Sect. 2.2 | |
+| 05/03/2021 | Selection Sort: Correctness and analysis.|  | [Selection Sort vs Insertion Sort ](Notes/L01_Insertion_Sort_vs_Selection_Sort.ipynb)|
+| 08/03/2021 | Divide and Conquer. Merge Sort. | CCLR Sect. 2.3  | |
