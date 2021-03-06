@@ -50,4 +50,6 @@ The goal of the class is to enable students to design and implement efficient al
 | Date | Lecture | References | Material |
 | ------------- | ------------- | ------------- | ------------- |
 | 14/02/2021 | Introduction and Python Basics| | |
-
+| 01/03/2021 | Introduction to analysis of algorithms| CCLR Sect. 2.1 | [Lecture Notes next 3 lectures]( Notes/Lecture\ 01-02-03.pdf)|
+| 01/03/2021 | Insertion Sort: Correctness and analysis| CCLR Sect. 2.2 | |
+| 01/03/2021 | Selection Sort: Correctness and analysis|  | [Selection Sort vs Insertion Sort ](Notes/L01_Insertion_Sort_vs_Selection_Sort.ipynb)|
