@@ -60,5 +60,5 @@ The goal of the class is to enable students to design and implement efficient al
 | 05/03/2021 | Selection Sort: Correctness and analysis.|  | [Selection Sort vs Insertion Sort ](Notes/L01_Insertion_Sort_vs_Selection_Sort.ipynb) and [VisuAlgo Sorting](https://visualgo.net/en/sorting)|
 | 08/03/2021 | Divide and Conquer. Merge Sort. | CCLR Sect. 2.3  | [VisuAlgo Sorting](https://visualgo.net/en/sorting) |
 | 11/03/2021 | Divide and Conquer. Merge Sort. | CCLR Sect. 2.3  | [Notes](Notes/Lecture_04-05.pdf) |
-| 12/03/2021 | Asymptotic notation. Binary search. | | CCLR Sect 3.1 |  
+| 12/03/2021 | Asymptotic notation. Binary search. | CCLR Sect 3.1 | |  
 | 15/03/2021 | Laboratory: Basics sorting | | [Jupyter Notebook](Lab/Lecture_01/L01_Basic_Sorting_no_sols.ipynb) **Mandatory exercises** |
