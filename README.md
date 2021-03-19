@@ -63,4 +63,4 @@ The goal of the class is to enable students to design and implement efficient al
 | 12/03/2021 | Asymptotic notation. | CCLR Sect 3.1 | [Notes next 2 lectures](Notes/Lecture_06-07.pdf) |  
 | 15/03/2021 | Laboratory: Basics sorting | | [Jupyter Notebook](Lab/Lecture_01/L01_Basic_Sorting_no_sols.ipynb) **Mandatory exercises** |
 | 18/03/2021 | Exercises. Binary search. | CCLR Sect 3.1 | |
-| 19/03/2021 | QuickSort. Best and worst cases. No average time analysis. | CCLR Sects 7.1, 7.2, and 7.3. [VisuAlgo Sorting](https://visualgo.net/en/sorting) | |
+| 19/03/2021 | QuickSort. Best and worst cases. No average time analysis. | CCLR Sects 7.1, 7.2, and 7.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) |
