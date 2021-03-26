@@ -65,6 +65,5 @@ The goal of the class is to enable students to design and implement efficient al
 | 18/03/2021 | Exercises. Binary search. | CCLR Sect 3.1 | |
 | 19/03/2021 | QuickSort. Best and worst cases. No average time analysis. | CCLR Sects 7.1, 7.2, and 7.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and [Notes](Notes/Lecture_08.pdf) |
 | 22/03/2021 | **Laboratory**: MergeSort and QuickSort. | | [Jupyter Notebook](Lab/Lecture_02/L02_Sorting_no_sols.ipynb) **Mandatory exercises** |  
-| 25/03/2021 | Lower Bound for sorting in the comparison model. Lower bound for searching a key in a sorted array. | CCLR Sect. 8.1 |[Notes](Notes/Lecture_09.pdf)  |
-|
-| 26/03/2021 | Sorting in linear time: Counting Sort and Radix Sort. | CCLR Sects. 8.2 and 8.3 | [VisuAlgo Sorting](https://visualgo.net/en/sorting) |
+| 25/03/2021 | Lower Bound for sorting in the comparison model. Lower bound for searching a key in a sorted array. | CCLR Sect. 8.1 |[Notes](Notes/Lecture_09.pdf) |
+| 26/03/2021 | Sorting in linear time: Counting Sort and Radix Sort. | CCLR Sects. 8.2 and 8.3 | [VisuAlgo Sorting](https://visualgo.net/en/sorting) | 
