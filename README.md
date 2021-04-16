@@ -69,7 +69,7 @@ The goal of the class is to enable students to design and implement efficient al
 | 26/03/2021 | Sorting in linear time: Counting Sort. | CCLR Sect. 8.2 | [VisuAlgo Sorting](https://visualgo.net/en/sorting). [Notes next 2 lectures](Notes/Lecture_10-11.pdf)| 
 | 29/03/2021 | **Laboratory**: Applications of sorting (I). | | [Jupyter Notebook](Lab/Lecture_03/L03_Sorting_Applications_Greedy_Algorithms_no_sols.ipynb) **Mandatory exercises** |  
 | 01/04/2021 |  Sorting in linear time: Radix Sort.  | CCLR Sect. 8.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) | 
-| 08/04/2021 |  Median and order statistics: QuickSelect. Priority queues: Heap. | CCLR Sect. 9.1 and 9.2. CCLR Ch. 6 | |
+| 08/04/2021 |  Median and order statistics: QuickSelect. Priority queues: Heap. | CCLR Sect. 9.1 and 9.2. CCLR Ch. 6 | [Notes next 3 lectures](Notes/Lecture_12-13-14.pdf |
 | 09/04/2021 |  Priority queues: Heap. | CCLR Ch. 6 | [VisuAlgo Heap](https://visualgo.net/en/heap?slide=1) |
 | 12/04/2021 | **Laboratory**: Applications of sorting (II). | | [Jupyter Notebook](Lab/Lecture_04/L04_Sorting_Applications_II_no_sols.ipynb) **Mandatory exercises** |  
 | 15/04/2021 | No lecture. | | |  
