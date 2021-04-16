@@ -72,3 +72,6 @@ The goal of the class is to enable students to design and implement efficient al
 | 08/04/2021 |  Median and order statistics: QuickSelect. Priority queues: Heap. | CCLR Sect. 9.1 and 9.2. CCLR Ch. 6 | |
 | 09/04/2021 |  Priority queues: Heap. | CCLR Ch. 6 | [VisuAlgo Heap](https://visualgo.net/en/heap?slide=1) |
 | 12/04/2021 | **Laboratory**: Applications of sorting (II). | | [Jupyter Notebook](Lab/Lecture_04/L04_Sorting_Applications_II_no_sols.ipynb) **Mandatory exercises** |  
+| 15/04/2021 | No lecture. | | |  
+| 16/04/2021 |  Priority queues: Heap. | CCLR Ch. 6 | [VisuAlgo Heap](https://visualgo.net/en/heap?slide=1) |
+| 19/04/2021 | Dictionary problem with Hashing | CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | | 
