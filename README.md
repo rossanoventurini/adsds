@@ -75,3 +75,4 @@ The goal of the class is to enable students to design and implement efficient al
 | 15/04/2021 | No lecture. | | |  
 | 16/04/2021 | Priority queues: Heap. | CCLR Ch. 6 | [VisuAlgo Heap](https://visualgo.net/en/heap?slide=1) |
 | 19/04/2021 | Dictionary problem with Hashing | CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | | 
+| 22/04/2021 | Dictionary problem with Hashing | CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | [Notes next 2 lectures](Notes/Lecture_15-16.pdf)|| 
