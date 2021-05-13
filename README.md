@@ -84,3 +84,4 @@ The goal of the class is to enable students to design and implement efficient al
 | 06/05/2021 | No Lecture |  | | | 
 | 07/05/2021 | Exercises: Visits of a tree. |  | | | 
 | 10/05/2021 | **Laboratory**: Binary Search Tree.  | | [Jupyter Notebook](Lab/Lecture_07/L07_Binary_Search_Tree_no_sols.ipynb) **Mandatory exercises** |
+| 13/05/2021 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | | [Graph representations](https://visualgo.net/en/graphds) and [BFS](https://visualgo.net/en/dfsbfs) | 
