@@ -38,8 +38,8 @@ The goal of the class is to enable students to design and implement efficient al
 | Type | Date | Room | Note|
 | ------------- | ------------- | ------------- | ----- |
 | Lab | 07/06/2021 14:00 | Same room as lectures. | Please send notebooks to me by 05/06/2021. |
-| Lab | 07/06/2021 14:00 | XX | |
-| Lab | 07/06/2021 14:00 | XX | |
+| Lab | 28/06/2021 14:00 | XX | |
+| Lab | 19/07/2021 14:00 | XX | |
 
 
 ## References
