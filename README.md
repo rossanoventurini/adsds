@@ -38,8 +38,8 @@ The goal of the class is to enable students to design and implement efficient al
 | Type | Date | Room | Note|
 | ------------- | ------------- | ------------- | ----- |
 | Lab | 07/06/2021 14:00 | Same room as lectures. | Please send notebooks to me by 05/06/2021. |
-| Lab | 28/06/2021 14:00 | XX | |
-| Lab | 19/07/2021 14:00 | XX | |
+| Lab | 28/06/2021 14:00 | Same room as lectures. | |
+| Lab | 19/07/2021 14:00 | Same room as lectures. | |
 
 
 ## References
@@ -85,8 +85,8 @@ The goal of the class is to enable students to design and implement efficient al
 | 06/05/2021 | No Lecture |  | | | 
 | 07/05/2021 | Exercises: Visits of a tree. |  | | | 
 | 10/05/2021 | **Laboratory**: Binary Search Tree.  | | [Jupyter Notebook](Lab/Lecture_07/L07_Binary_Search_Tree_no_sols.ipynb) **Mandatory exercises** |
-| 13/05/2021 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | | [Graph representations](https://visualgo.net/en/graphds) and [BFS](https://visualgo.net/en/dfsbfs) | 
-| 14/05/2021 | Graphs: DFS. |CCLR Sect. 22.3 (no proofs) | | [Graph representations](https://visualgo.net/en/graphds) and [BFS](https://visualgo.net/en/dfsbfs) | 
+| 13/05/2021 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | [Notes next 2 lectures](Notes/Lecture_20-21.pdf) | 
+| 14/05/2021 | Graphs: DFS. |CCLR Sect. 22.3 (no proofs) | [Graph representations](https://visualgo.net/en/graphds) and [BFS/DFS](https://visualgo.net/en/dfsbfs) | 
 | 10/05/2021 | **Laboratory**: Graphs.  | | [Jupyter Notebook](Lab/Lecture_08/) **Mandatory exercises** |
 | 20/05/2021 | Exercises | |
 | 21/05/2021 | Exercises | |
