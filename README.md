@@ -37,10 +37,13 @@ The goal of the class is to enable students to design and implement efficient al
 
 | Type | Date | Room | Note|
 | ------------- | ------------- | ------------- | ----- |
-| Lab | 07/06/2021 14:00 | Same room as lectures. | Please send notebooks to me by 05/06/2021. |
-| Lab | 28/06/2021 14:00 | Same room as lectures. | |
+| Lab | 07/06/2021 14:00 | Same room as lectures. | Please send your solutions to me by 05/06/2021. |
+| Lab | 28/06/2021 14:00 | Same room as lectures. | Please send your solutions to me by 24/06/2021. **Important:**  Please
+cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Read the very important note below. |
 | Lab | 19/07/2021 14:00 | Same room as lectures. | |
 
+
+**Very important!** You are allowed to discuss verbally solutions (e.g., a strategy to solve a problem) with other students, **BUT** you have to write your own implementation by yourself. Sharing implementations or implementing a solutions with others is strictly **forbidden**.
 
 ## References
 *   Introduction to Algorithms,  3rd Edition, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, The MIT Press, 2009 ([Amazon](http://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen/dp/0262033844/ref=sr_1_1?s=books&ie=UTF8&qid=1443160441&sr=1-1&keywords=introduction+to+algorithms)) [CCLR]
