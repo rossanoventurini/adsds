@@ -38,7 +38,7 @@ The goal of the class is to enable students to design and implement efficient al
 | Type | Date | Room | Note|
 | ------------- | ------------- | ------------- | ----- |
 | Lab | 07/06/2021 14:00 | Same room as lectures. | Please send your solutions to me by 05/06/2021. |
-| Lab | 28/06/2021 14:00 | Same room as lectures. | Please send your solutions to me by 24/06/2021. **Important:**  Please cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Read the very important note below. |
+| Lab | 28/06/2021 14:00 | Same room as lectures. | Please send your solutions to me by 24/06/2021. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
 | Lab | 19/07/2021 14:00 | Same room as lectures. | |
 
 
