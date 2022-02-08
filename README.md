@@ -4,7 +4,7 @@
 * CFU: 9
 * Period: Second semester
 * Language: English
-* Classroom: [here](https://classroom.google.com/u/1/c/MTU5MjgwMTQ5NTk1)
+* Classroom: [here](https://classroom.google.com/u/0/c/Mzg4MzQ2ODk2MzQw)
 * Lectures schedule: Monday 9-11, Thursday 16-18, and Friday 11-13 ([Google Meet](https://meet.google.com/lookup/f5575mxwil?authuser=1&hs=179)).
 * Question time: After lectures or by appointment
 
