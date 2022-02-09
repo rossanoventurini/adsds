@@ -5,7 +5,7 @@
 * Period: Second semester
 * Language: English
 * Classroom: [here](https://classroom.google.com/u/0/c/Mzg4MzQ2ODk2MzQw)
-* Lectures schedule: Monday 9-11, Thursday 16-18, and Friday 11-13 ([Google Meet](https://meet.google.com/lookup/f5575mxwil?authuser=1&hs=179)).
+* Lectures schedule: Tuesday 14:15-16:00 (Aula Fib C), Thursday 14:15-16:00 (Aula Fib C), and Friday 9:00-10:45 (Aula Fib A1).
 * Question time: After lectures or by appointment
 
 ## Goals and opportunities
@@ -54,6 +54,11 @@ The goal of the class is to enable students to design and implement efficient al
 *   Algorithms, Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani, McGraw-Hill, 2006\. ([Amazon](http://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)) [DPZ]
 
 ## Lectures
+| Date | Lecture | References | Material |
+| ------------- | ------------- | ------------- | ------------- |
+
+
+## Last year lectures
 | Date | Lecture | References | Material |
 | ------------- | ------------- | ------------- | ------------- |
 | 15/02/2021 | **Laboratory**: Introduction.  Python Basics. | Jupyter notebooks on our Google Classroom | |
