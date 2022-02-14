@@ -4,7 +4,7 @@
 * CFU: 9
 * Period: Second semester
 * Language: English
-* Classroom: [here](https://classroom.google.com/u/0/c/Mzg4MzQ2ODk2MzQw)
+* Classroom: [here](https://classroom.google.com/u/0/c/Mzg4MzQ2ODk2MzQw) (code: dqwq6aj)
 * Lectures schedule: Tuesday 14:15-16:00 (Aula Fib C), Thursday 14:15-16:00 (Aula Fib C), and Friday 9:00-10:45 (Aula Fib A1).
 * Question time: After lectures or by appointment
 
