@@ -54,7 +54,7 @@ The goal of the class is to enable students to design and implement efficient al
 | 18/02/2022 | Selection Sort: Correctness and analysis.|  | [Selection Sort vs Insertion Sort ](Notes/L01_Insertion_Sort_vs_Selection_Sort.ipynb) and [VisuAlgo Sorting](https://visualgo.net/en/sorting)|
 | 22/02/2022 | Divide and Conquer. Merge Sort. | CCLR Sect. 2.3  | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and  [Notes](Notes/Lecture_04.pdf) |
 | 24/02/2022 | Divide and Conquer. Merge Sort. (contd)| CCLR Sect. 2.3  | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and  [Notes](Notes/Lecture_04.pdf) |
-| 25/02/2022 | **Laboratory**: Basics sorting | | [Jupyter Notebook](Lab/Lecture_01/L01_Basic_Sorting_no_sols.ipynb) **Mandatory exercises** |
+| 25/02/2022 | **Laboratory Lecture 01**: Basics sorting | | [Jupyter Notebook](Lab/Lecture_01/L01_Basic_Sorting_no_sols.ipynb) **Mandatory exercises** |
 | XX/02/2022 | Asymptotic notation. | CCLR Sect 3.1 | [Notes next 2 lectures](Notes/Lecture_06-07.pdf) |
 
 
