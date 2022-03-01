@@ -55,7 +55,7 @@ The goal of the class is to enable students to design and implement efficient al
 | 22/02/2022 | Divide and Conquer. Merge Sort. | CCLR Sect. 2.3  | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and  [Notes next 3 lectures](Notes/Lecture_04.pdf) |
 | 24/02/2022 | Divide and Conquer. Merge Sort. (contd)| CCLR Sect. 2.3  | [VisuAlgo Sorting](https://visualgo.net/en/sorting) |
 | 25/02/2022 | **Laboratory Lecture 01**: Basics sorting | | [Jupyter Notebook](Lab/Lecture_01/L01_Basic_Sorting_no_sols.ipynb) **Mandatory exercises** |
-| 01/03/2022 | Exercies with recurrences. Binary search. Asymptotic notation. | CCLR Sect 3.1 | |
+| 01/03/2022 | Exercises with recurrences. Binary search. Asymptotic notation. | CCLR Sect 3.1 | |
 
 
 
