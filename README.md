@@ -52,23 +52,16 @@ The goal of the class is to enable students to design and implement efficient al
 | 15/02/2022 | Introduction to analysis of algorithms.| CCLR Sect. 2.1 | [Notes next 3 lectures](Notes/Lectures_01-02-03.pdf)|
 | 17/02/2022 | Insertion Sort: Correctness and analysis.| CCLR Sect. 2.2 | [VisuAlgo Sorting](https://visualgo.net/en/sorting) |
 | 18/02/2022 | Selection Sort: Correctness and analysis.|  | [Selection Sort vs Insertion Sort ](Notes/L01_Insertion_Sort_vs_Selection_Sort.ipynb) and [VisuAlgo Sorting](https://visualgo.net/en/sorting)|
-| 22/02/2022 | Divide and Conquer. Merge Sort. | CCLR Sect. 2.3  | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and  [Notes](Notes/Lecture_04.pdf) |
-| 24/02/2022 | Divide and Conquer. Merge Sort. (contd)| CCLR Sect. 2.3  | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and  [Notes](Notes/Lecture_04.pdf) |
+| 22/02/2022 | Divide and Conquer. Merge Sort. | CCLR Sect. 2.3  | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and  [Notes next 3 lectures](Notes/Lecture_04.pdf) |
+| 24/02/2022 | Divide and Conquer. Merge Sort. (contd)| CCLR Sect. 2.3  | [VisuAlgo Sorting](https://visualgo.net/en/sorting) |
 | 25/02/2022 | **Laboratory Lecture 01**: Basics sorting | | [Jupyter Notebook](Lab/Lecture_01/L01_Basic_Sorting_no_sols.ipynb) **Mandatory exercises** |
-| XX/02/2022 | Asymptotic notation. | CCLR Sect 3.1 | [Notes next 2 lectures](Notes/Lecture_06-07.pdf) |
+| 01/03/2022 | Exercies with recurrences. Binary search. Asymptotic notation. | CCLR Sect 3.1 | |
 
 
 
 ## Last year lectures
 | Date | Lecture | References | Material |
 | ------------- | ------------- | ------------- | ------------- |
-| 15/02/2021 | **Laboratory**: Introduction.  Python Basics. | Jupyter notebooks on our Google Classroom | |
-| 18/02/2021 | **Laboratory**: Python Basics and Data Structures. | Jupyter notebooks on our Google Classroom  | |
-| 19/02/2021 | **Laboratory**: Python Basics and Data Structures. | Jupyter notebooks on our Google Classroom  | |
-| 22/02/2021 | **Laboratory**: Advanced Python. | Jupyter notebooks on our Google Classroom  | |
-| 25/02/2021 | **Laboratory**: Advanced Python. | Jupyter notebooks on our Google Classroom  | |
-| 26/02/2021 | **Laboratory**: Exercises. | | |
-| 18/03/2021 | Exercises. Binary search. | CCLR Sect 3.1 | |
 | 19/03/2021 | QuickSort. Best and worst cases. No average time analysis. | CCLR Sects 7.1, 7.2, and 7.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and [Notes](Notes/Lecture_08.pdf) |
 | 22/03/2021 | **Laboratory**: MergeSort and QuickSort. | | [Jupyter Notebook](Lab/Lecture_02/L02_Sorting_no_sols.ipynb) **Mandatory exercises** |  
 | 25/03/2021 | Lower Bound for sorting in the comparison model. Lower bound for searching a key in a sorted array. | CCLR Sect. 8.1 |[Notes](Notes/Lecture_09.pdf) |
