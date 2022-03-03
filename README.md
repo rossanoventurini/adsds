@@ -64,7 +64,6 @@ The goal of the class is to enable students to design and implement efficient al
 ## Last year lectures
 | Date | Lecture | References | Material |
 | ------------- | ------------- | ------------- | ------------- |
- 
 | 25/03/2021 | Lower Bound for sorting in the comparison model. Lower bound for searching a key in a sorted array. | CCLR Sect. 8.1 |[Notes](Notes/Lecture_09.pdf) |
 | 26/03/2021 | Sorting in linear time: Counting Sort. | CCLR Sect. 8.2 | [VisuAlgo Sorting](https://visualgo.net/en/sorting). [Notes next 2 lectures](Notes/Lecture_10-11.pdf)| 
 | 29/03/2021 | **Laboratory**: Applications of sorting (I). | | [Jupyter Notebook](Lab/Lecture_03/L03_Sorting_Applications_Greedy_Algorithms_no_sols.ipynb) **Mandatory exercises** |  
