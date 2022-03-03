@@ -57,7 +57,7 @@ The goal of the class is to enable students to design and implement efficient al
 | 25/02/2022 | **Laboratory Lecture 01**: Basics sorting | | [Jupyter Notebook](Lab/Lecture_01/L01_Basic_Sorting_no_sols.ipynb) **Mandatory exercises** |
 | 01/03/2022 | Exercises with recurrences. Binary search. | CCLR Sect 3.1 | |
 | 03/03/2022 | QuickSort. Best and worst cases. No average time analysis. | CCLR Sects 7.1, 7.2, and 7.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and [Notes next 2 lectures](Notes/Lecture_07-08.pdf) |
-| 04/03/2022 | **Laboratory**: MergeSort and QuickSort. | | [Jupyter Notebook](Lab/Lecture_02/L02_Sorting_no_sols.ipynb) **Mandatory exercises** | 
+| 04/03/2022 | **Laboratory Lecture 02**: MergeSort and QuickSort. | | [Jupyter Notebook](Lab/Lecture_02/L02_Sorting_no_sols.ipynb) **Mandatory exercises** | 
 | 08/03/2022 | QuickSort. Best and worst cases. No average time analysis.  Asymptotic notation.| CCLR Sects 7.1, 7.2, and 7.3. |  |
 
 
