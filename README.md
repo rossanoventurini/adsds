@@ -62,17 +62,17 @@ The goal of the class is to enable students to design and implement efficient al
 | 10/03/2022 | Lower Bound for sorting in the comparison model. Lower bound for searching a key in a sorted array. | CCLR Sect. 8.1 |[Notes](Notes/Lecture_09.pdf) |
 | 11/03/2022 | **Laboratory Lecture 03**: Applications of sorting (I). | | [Jupyter Notebook](Lab/Lecture_03/L03_Sorting_Applications_Greedy_Algorithms_no_sols.ipynb) **Mandatory exercises** |  
 | 15/03/2022 | Sorting in linear time: Counting Sort. | CCLR Sect. 8.2 | [VisuAlgo Sorting](https://visualgo.net/en/sorting). [Notes next 2 lectures](Notes/Lecture_10-11.pdf)| 
-| 17/03/2022 | Sorting in linear time: Radix Sort.  Median and order statistics: QuickSelect. | CCLR Sect. 8.3. CCLR Sect. 9.1 and 9.2.| [VisuAlgo Sorting](https://visualgo.net/en/sorting) | 
-| 18/03/2022 | **Laboratory**: Applications of sorting (II). | | [Jupyter Notebook](Lab/Lecture_04/L04_Sorting_Applications_II_no_sols.ipynb) **Mandatory exercises** |  
+| 17/03/2022 | Sorting in linear time: Radix Sort. | CCLR Sect. 8.3.| [VisuAlgo Sorting](https://visualgo.net/en/sorting) | 
+| 18/03/2022 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | [Notes next 2 lectures](Notes/Lecture_15-16.pdf) | 
+| 22/03/2022 | Dictionary problem with Hashing. | CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | | 
 
 ## Last year lectures
 | Date | Lecture | References | Material |
 | ------------- | ------------- | ------------- | ------------- |
+| 18/03/2022 | **Laboratory**: Applications of sorting (II). | | [Jupyter Notebook](Lab/Lecture_04/L04_Sorting_Applications_II_no_sols.ipynb) **Mandatory exercises** |
 | 08/04/2021 | Priority queues: Heap. | CCLR Ch. 6 | [Notes next 3 lectures](Notes/Lecture_12-13-14.pdf) |
 | 09/04/2021 | Priority queues: Heap. | CCLR Ch. 6 | [VisuAlgo Heap](https://visualgo.net/en/heap?slide=1) | 
 | 16/04/2021 | Priority queues: Heap. | CCLR Ch. 6 | [VisuAlgo Heap](https://visualgo.net/en/heap?slide=1) |
-| 19/04/2021 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | [Notes next 2 lectures](Notes/Lecture_15-16.pdf) | 
-| 22/04/2021 | Dictionary problem with Hashing. | CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | | 
 | 23/04/2021 | Binary Search tree. | CCLR Sect. 12.1, 12.2, and 12.3  | [Visualgo BST](https://visualgo.net/en/bst) | [Notes for this lecture](Notes/Lecture_17.pdf) | 
 | 26/04/2021 | **Laboratory**: Hashing. | | [Jupyter Notebook](Lab/Lecture_05/L05_Hashing_no_sols.ipynb) **Mandatory exercises** |
 | 29/04/2021 | Exercises: Visits of a tree. |  | [Notes next 3 lectures](Notes/Lecture_18-19-20.pdf) | | 
