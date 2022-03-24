@@ -80,7 +80,6 @@ The goal of the class is to enable students to design and implement efficient al
 | 29/04/2021 | Exercises: Visits of a tree. |  | [Notes next 3 lectures](Notes/Lecture_18-19-20.pdf) | | 
 | 30/04/2021 | Exercises: Visits of a tree. |  | | | 
 | 03/05/2021 | **Laboratory**: Hashing: Applications.  | | [Jupyter Notebook](Lab/Lecture_06/L06_Hashing_Applications_no_sols.ipynb) **Mandatory exercises** |
-| 06/05/2021 | No Lecture |  | | | 
 | 07/05/2021 | Exercises: Visits of a tree. |  | | | 
 | 10/05/2021 | **Laboratory**: Binary Search Tree.  | | [Jupyter Notebook](Lab/Lecture_07/L07_Binary_Search_Tree_no_sols.ipynb) **Mandatory exercises** |
 | 13/05/2021 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | [Notes next 2 lectures](Notes/Lecture_21-22.pdf) | 
