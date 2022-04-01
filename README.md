@@ -67,11 +67,13 @@ The goal of the class is to enable students to design and implement efficient al
 | 22/03/2022 | Dictionary problem with Hashing. | CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | |
 | 24/03/2022 | Python best practices. | | |
 | 25/03/2022 | **Laboratory**: Hashing. Python best practices. | | [Jupyter Notebook](Lab/Lecture_04/L04_Hashing_no_sols.ipynb) **Mandatory exercises** |
+| 29/03/2022 | Python best practices. | | |
+| 31/03/2022 | Python best practices. | | |
+| 01/04/2022 | **Laboratory**: Hashing: Applications.  | | [Jupyter Notebook](Lab/Lecture_05/L05_Hashing_Applications_no_sols.ipynb) **Mandatory exercises** |
 
 ## Last year lectures
 | Date | Lecture | References | Material |
 | ------------- | ------------- | ------------- | ------------- |
-| 03/05/2021 | **Laboratory**: Hashing: Applications.  | | [Jupyter Notebook](Lab/Lecture_05/L05_Hashing_Applications_no_sols.ipynb) **Mandatory exercises** |
 | 18/03/2022 | **Laboratory**: Applications of sorting (II). | | [Jupyter Notebook](Lab/Lecture_06/L06_Sorting_Applications_II_no_sols.ipynb) **Mandatory exercises** |
 | 10/05/2021 | **Laboratory**: Binary Search Tree.  | | [Jupyter Notebook](Lab/Lecture_07/L07_Binary_Search_Tree_no_sols.ipynb) **Mandatory exercises** |
 | 17/05/2021 | **Laboratory**: Graphs.  | | [Jupyter Notebook](Lab/Lecture_08/L08_Graphs_with_NetworkX_no_sols.ipynb) **Mandatory exercises** |
