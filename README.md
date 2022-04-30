@@ -59,7 +59,7 @@ The goal of the class is to enable students to design and implement efficient al
 | 03/03/2022 | QuickSort. Best and worst cases. No average time analysis. | CCLR Sects 7.1, 7.2, and 7.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and [Notes next 2 lectures](Notes/Quicksort22.pdf) |
 | 04/03/2022 | **Laboratory Lecture 02**: MergeSort and QuickSort. | | [Jupyter Notebook](Lab/Lecture_02/L02_Sorting_no_sols.ipynb) **Mandatory exercises** | 
 | 08/03/2022 | QuickSort. Best and worst cases. No average time analysis.  Asymptotic notation.| CCLR Sects 7.1, 7.2, and 7.3. |  |
-| 10/03/2022 | Lower Bound for sorting in the comparison model. Lower bound for searching a key in a sorted array. | CCLR Sect. 8.1 |[Notes](Notes/Lowerbound22.pdf) |
+| 10/03/2022 | Lower Bound for sorting in the comparison model. | CCLR Sect. 8.1 |[Notes](Notes/Lowerbound22.pdf) |
 | 11/03/2022 | **Laboratory Lecture 03**: Applications of sorting (I). | | [Jupyter Notebook](Lab/Lecture_03/L03_Sorting_Applications_Greedy_Algorithms_no_sols.ipynb) **Mandatory exercises** |  
 | 15/03/2022 | Sorting in linear time: Counting Sort. | CCLR Sect. 8.2 | [VisuAlgo Sorting](https://visualgo.net/en/sorting). [Notes next 2 lectures](Notes/LinearTimeSorting22.pdf)| 
 | 17/03/2022 | Sorting in linear time: Radix Sort. | CCLR Sect. 8.3.| [VisuAlgo Sorting](https://visualgo.net/en/sorting) | 
