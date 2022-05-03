@@ -79,7 +79,7 @@ The goal of the class is to enable students to design and implement efficient al
 | 22/04/2022 | **Laboratory**: Binary Search Tree.  | | [Jupyter Notebook](Lab/Lecture_07/L07_Binary_Search_Tree_no_sols.ipynb) **Mandatory exercises** |
 | 26/04/2022 | Exercises: Visits of a tree. |  | [Notes next 2 lectures](Notes/Trees.pdf) | | 
 | 28/04/2022 | Exercises: Visits of a tree. |  | | | 
-| 03/05/2022 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | [Notes next 2 lectures](Notes/Lecture_21-22.pdf) | 
+| 03/05/2022 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | [Notes next 2 lectures](Notes/Graphs.pdf) | 
 | 05/05/2022 | Graphs: DFS. |CCLR Sect. 22.3 (no proofs) | [Graph representations](https://visualgo.net/en/graphds) and [BFS/DFS](https://visualgo.net/en/dfsbfs) |
 | 06/05/2022 | **Laboratory**: Graphs.  | | [Jupyter Notebook](Lab/Lecture_08/L08_Graphs_with_NetworkX_no_sols.ipynb) **Mandatory exercises** |
 
