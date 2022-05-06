@@ -83,10 +83,8 @@ The goal of the class is to enable students to design and implement efficient al
 | 28/04/2022 | Exercises: Visits of a tree. |  | | | 
 | 03/05/2022 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | [Notes next 2 lectures](Notes/Graphs.pdf) | 
 | 05/05/2022 | Graphs: DFS. |CCLR Sect. 22.3 (no proofs) | [Graph representations](https://visualgo.net/en/graphds) and [BFS/DFS](https://visualgo.net/en/dfsbfs) |
-| 06/05/2022 | **Laboratory**: Graphs.  | | [Jupyter Notebook](Lab/Lecture_08/L08_Graphs_with_NetworkX_no_sols.ipynb) **Mandatory exercises** |
+| 06/05/2022 | **Laboratory**: Questions| |
+| 10/05/2022 | Exercises | |
+| 12/05/2022 | Exercises | |
+| 13/05/2022 | **Laboratory**: Graphs.  | | [Jupyter Notebook](Lab/Lecture_08/L08_Graphs_with_NetworkX_no_sols.ipynb) **Mandatory exercises** |
 
-## Last year lectures
-| Date | Lecture | References | Material |
-| ------------- | ------------- | ------------- | ------------- |
-| 20/05/2021 | Exercises | |
-| 21/05/2021 | Exercises | |
