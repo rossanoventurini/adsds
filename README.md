@@ -37,7 +37,9 @@ The goal of the class is to enable students to design and implement efficient al
 
 | Type | Date | Room | Note|
 | ------------- | ------------- | ------------- | ----- |
-| Lab | 13/04/2022 9:00 | [Google Meet](https://meet.google.com/lookup/f5575mxwil?authuser=1&hs=179) | Please send your solutions to me by 09/04/2022. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
+| Lab | 07/06/2022 14:00 | [Google Meet](https://meet.google.com/lookup/f5575mxwil?authuser=1&hs=179) | Please send your solutions to me by 04/06/2022. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
+| Lab | 28/06/2022 14:00 | [Google Meet](https://meet.google.com/lookup/f5575mxwil?authuser=1&hs=179) | Please send your solutions to me by 25/06/2022. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
+| Lab | 19/07/2022 14:00 | [Google Meet](https://meet.google.com/lookup/f5575mxwil?authuser=1&hs=179) | Please send your solutions to me by 16/07/2022. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
 
 **Very important!** You are allowed to discuss verbally solutions (e.g., a strategy to solve a problem) with other students, **BUT** you have to implement all the solutions by yourself. Thus, sharing implementations or implementing a solutions with others is strictly **forbidden**.
 
@@ -81,10 +83,8 @@ The goal of the class is to enable students to design and implement efficient al
 | 28/04/2022 | Exercises: Visits of a tree. |  | | | 
 | 03/05/2022 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | [Notes next 2 lectures](Notes/Graphs.pdf) | 
 | 05/05/2022 | Graphs: DFS. |CCLR Sect. 22.3 (no proofs) | [Graph representations](https://visualgo.net/en/graphds) and [BFS/DFS](https://visualgo.net/en/dfsbfs) |
-| 06/05/2022 | **Laboratory**: Graphs.  | | [Jupyter Notebook](Lab/Lecture_08/L08_Graphs_with_NetworkX_no_sols.ipynb) **Mandatory exercises** |
+| 06/05/2022 | **Laboratory**: Questions| |
+| 10/05/2022 | Exercises | |
+| 12/05/2022 | Exercises | |
+| 13/05/2022 | **Laboratory**: Graphs.  | | [Jupyter Notebook](Lab/Lecture_08/L08_Graphs_with_NetworkX_no_sols.ipynb) **Mandatory exercises** |
 
-## Last year lectures
-| Date | Lecture | References | Material |
-| ------------- | ------------- | ------------- | ------------- |
-| 20/05/2021 | Exercises | |
-| 21/05/2021 | Exercises | |
