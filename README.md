@@ -85,6 +85,6 @@ The goal of the class is to enable students to design and implement efficient al
 | 05/05/2022 | Graphs: DFS. |CCLR Sect. 22.3 (no proofs) | [Graph representations](https://visualgo.net/en/graphds) and [BFS/DFS](https://visualgo.net/en/dfsbfs) |
 | 06/05/2022 | **Laboratory**: Questions| |
 | 10/05/2022 | Exercises | [Notes](Notes/Exam20210610_sol.pdf) |
-| 12/05/2022 | Exercises | |
+| 12/05/2022 | Exercises | [Notes](Notes/Exam20210723_sol.pdf)|
 | 13/05/2022 | **Laboratory**: Graphs.  | | [Jupyter Notebook](Lab/Lecture_08/L08_Graphs_with_NetworkX_no_sols.ipynb) **Mandatory exercises** |
 
