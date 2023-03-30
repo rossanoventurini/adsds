@@ -64,15 +64,15 @@ The goal of the class is to enable students to design and implement efficient al
 | 20/03/2023 | Lower Bound for sorting in the comparison model. | CCLR Sect. 8.1 |[Notes](Notes/Lowerbound22.pdf) |
 | 22/03/2023 | Sorting in linear time: Counting Sort. | CCLR Sect. 8.2 | [VisuAlgo Sorting](https://visualgo.net/en/sorting). [Notes next 2 lectures](Notes/LinearTimeSorting22.pdf)| 
 | 24/03/2023 | **Laboratory**: Applications of sorting (I). | | [Jupyter Notebook](Lab/Lecture_03/L03_Sorting_Applications_Greedy_Algorithms_no_sols.ipynb) **Mandatory exercises** |  
+| 27/03/2023 | Sorting in linear time: Radix Sort. | CCLR Sect. 8.3.| [VisuAlgo Sorting](https://visualgo.net/en/sorting) |
+| 29/03/2023 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | [Notes](Notes/Hashing22.pdf) |
+| 31/03/2023 | **Laboratory**: Hashing. Python best practices. | | [Jupyter Notebook](Lab/Lecture_04/L04_Hashing_no_sols.ipynb) **Mandatory exercises** |
 
 ## Last Year Lectures
 | Date | Lecture | References | Material |
 | ------------- | ------------- | ------------- | ------------- |
-| 17/03/2022 | Sorting in linear time: Radix Sort. | CCLR Sect. 8.3.| [VisuAlgo Sorting](https://visualgo.net/en/sorting) | 
-| 18/03/2022 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | [Notes next 2 lectures](Notes/Hashing22.pdf) | 
 | 22/03/2022 | Dictionary problem with Hashing. | CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | |
 | 24/03/2022 | Python best practices. | | |
-| 25/03/2022 | **Laboratory**: Hashing. Python best practices. | | [Jupyter Notebook](Lab/Lecture_04/L04_Hashing_no_sols.ipynb) **Mandatory exercises** |
 | 29/03/2022 | Python best practices. | | |
 | 31/03/2022 | Python best practices. | | |
 | 01/04/2022 | **Laboratory**: Hashing: Applications.  | | [Jupyter Notebook](Lab/Lecture_05/L05_Hashing_Applications_no_sols.ipynb) **Mandatory exercises** |
