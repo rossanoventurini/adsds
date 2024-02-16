@@ -4,8 +4,8 @@
 * CFU: 9
 * Period: Second semester
 * Language: English
-* Classroom: [here](https://classroom.google.com/u/1/c/NTgzNzgzNTU1NjQy)  (code: nqhbwof)
-* Lectures schedule: Monday 14:00-16:00 (Aula Fib C), Wednesday 11:00-13:00 (Aula Fib C), and Friday 9:00-11:00 (Aula Fib C).
+* Classroom: [here](https://classroom.google.com/u/1/c/NjYxNTg1NzIyODc1)  (code: 7ucbcgh)
+* Lectures schedule: Tuesday 9:00-11:00 (Aula Fib C), Wednesday 9:00-11:00 (Aula Fib C), and Friday 9:00-11:00 (Aula Fib C).
 * Question time: After lectures or by appointment
 
 ## Goals and opportunities
@@ -49,12 +49,14 @@ The goal of the class is to enable students to design and implement efficient al
 *   Algorithms, 4th Edition, Robert Sedgewick, Kevin Wayne, Addison-Wesley Professional, 2011 ([Amazon](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X/ref=pd_sim_14_2?ie=UTF8&refRID=1A2NFN935EST0ZQARB6H&dpID=51UDgHU9z9L&dpSrc=sims&preST=_AC_UL160_SR130%2C160_)) [RS]
 *   Algorithms, Sanjoy Dasgupta, Christos Papadimitriou, Umesh Vazirani, McGraw-Hill, 2006\. ([Amazon](http://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402)) [DPZ]
 
-
-
 ## Lectures
 | Date | Lecture | References | Material |
 | ------------- | ------------- | ------------- | ------------- |
-| 22/02/2023 | Introduction to analysis of algorithms.| CCLR Sect. 2.1 | [Notes next 3 lectures](Notes/Analysis22.pdf)|
+| 20/02/2024 | Introduction to analysis of algorithms.| CCLR Sect. 2.1 | [Notes next 3 lectures](Notes/Analysis22.pdf)|
+
+## Last Year Lectures
+| Date | Lecture | References | Material |
+| ------------- | ------------- | ------------- | ------------- |
 | 27/02/2023 | Insertion Sort: Correctness and analysis.| CCLR Sect. 2.2 | [VisuAlgo Sorting](https://visualgo.net/en/sorting) |
 | 01/03/2023 | Selection Sort: Correctness and analysis.|  | [Selection Sort vs Insertion Sort ](Notes/L01_Insertion_Sort_vs_Selection_Sort.ipynb) and [VisuAlgo Sorting](https://visualgo.net/en/sorting)|
 | 03/03/2023 | Divide and Conquer. Merge Sort. | CCLR Sect. 2.3  | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and  [Notes next 3 lectures](Notes/Mergesort22.pdf) |
