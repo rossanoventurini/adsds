@@ -53,12 +53,12 @@ The goal of the class is to enable students to design and implement efficient al
 | Date | Lecture | References | Material |
 | ------------- | ------------- | ------------- | ------------- |
 | 20/02/2024 | Introduction to analysis of algorithms.| CCLR Sect. 2.1 | [Notes next 3 lectures](Notes/Analysis22.pdf)|
+| 21/02/2024 | Insertion Sort: Correctness and analysis.| CCLR Sect. 2.2 | [VisuAlgo Sorting](https://visualgo.net/en/sorting) |
+| 23/02/2024 | Selection Sort: Correctness and analysis.|  | [Selection Sort vs Insertion Sort ](Notes/L01_Insertion_Sort_vs_Selection_Sort.ipynb) and [VisuAlgo Sorting](https://visualgo.net/en/sorting)|
 
 ## Last Year Lectures
 | Date | Lecture | References | Material |
 | ------------- | ------------- | ------------- | ------------- |
-| 27/02/2023 | Insertion Sort: Correctness and analysis.| CCLR Sect. 2.2 | [VisuAlgo Sorting](https://visualgo.net/en/sorting) |
-| 01/03/2023 | Selection Sort: Correctness and analysis.|  | [Selection Sort vs Insertion Sort ](Notes/L01_Insertion_Sort_vs_Selection_Sort.ipynb) and [VisuAlgo Sorting](https://visualgo.net/en/sorting)|
 | 03/03/2023 | Divide and Conquer. Merge Sort. | CCLR Sect. 2.3  | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and  [Notes next 3 lectures](Notes/Mergesort22.pdf) |
 | 06/03/2023 | Divide and Conquer. Merge Sort. (contd)| CCLR Sect. 2.3  | [VisuAlgo Sorting](https://visualgo.net/en/sorting) |
 | 08/03/2023 | Exercises with recurrences. Binary search. | CCLR Sect 3.1 | |
