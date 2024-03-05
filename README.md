@@ -57,13 +57,13 @@ The goal of the class is to enable students to design and implement efficient al
 | 27/02/2024 | Selection Sort: Correctness and analysis.|  | [Selection Sort vs Insertion Sort ](Notes/L01_Insertion_Sort_vs_Selection_Sort.ipynb) and [VisuAlgo Sorting](https://visualgo.net/en/sorting)|
 | 28/02/2024 | Divide and Conquer. Merge Sort. | CCLR Sect. 2.3  | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and  [Notes next 3 lectures](Notes/Mergesort22.pdf) |
 | 01/03/2024 | **Laboratory**: Basic sorting algorithms | | [Jupyter Notebook](Lab/Lecture_01/L01_Basic_Sorting_no_sols.ipynb) **Mandatory exercises** |
-| 05/03/2024 | Divide and Conquer. Merge Sort. (contd)| CCLR Sect. 2.3  | [VisuAlgo Sorting](https://visualgo.net/en/sorting) |
-| 06/03/2024 | Exercises with recurrences. Binary search. | CCLR Sect 3.1 | |
+| 05/03/2024 | Divide and Conquer. Merge Sort. (contd) Binary search.| CCLR Sect. 2.3,  CCLR Sect 3.1 | [VisuAlgo Sorting](https://visualgo.net/en/sorting) |
+| 06/03/2024 | QuickSort. Best and worst cases. No average time analysis. | CCLR Sects 7.1, 7.2, and 7.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and [Notes next 2 lectures](Notes/Quicksort22.pdf) |
 
 ## Last Year Lectures
 | Date | Lecture | References | Material |
 | ------------- | ------------- | ------------- | ------------- |
-| 13/03/2023 | QuickSort. Best and worst cases. No average time analysis. | CCLR Sects 7.1, 7.2, and 7.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and [Notes next 2 lectures](Notes/Quicksort22.pdf) |
+
 | 15/03/2023 | QuickSort. Best and worst cases. No average time analysis.  Asymptotic notation.| CCLR Sects 7.1, 7.2, and 7.3. |  |
 | 17/03/2023 | **Laboratory**: MergeSort and QuickSort. | | [Jupyter Notebook](Lab/Lecture_02/L02_Sorting_no_sols.ipynb) **Mandatory exercises** | 
 | 20/03/2023 | Lower Bound for sorting in the comparison model. | CCLR Sect. 8.1 |[Notes](Notes/Lowerbound22.pdf) |
