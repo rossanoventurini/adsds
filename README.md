@@ -63,7 +63,6 @@ The goal of the class is to enable students to design and implement efficient al
 ## Last Year Lectures
 | Date | Lecture | References | Material |
 | ------------- | ------------- | ------------- | ------------- |
-
 | 15/03/2023 | QuickSort. Best and worst cases. No average time analysis.  Asymptotic notation.| CCLR Sects 7.1, 7.2, and 7.3. |  |
 | 17/03/2023 | **Laboratory**: MergeSort and QuickSort. | | [Jupyter Notebook](Lab/Lecture_02/L02_Sorting_no_sols.ipynb) **Mandatory exercises** | 
 | 20/03/2023 | Lower Bound for sorting in the comparison model. | CCLR Sect. 8.1 |[Notes](Notes/Lowerbound22.pdf) |
