@@ -37,11 +37,16 @@ The goal of the class is to enable students to design and implement efficient al
 
 | Type | Date | Room | Note|
 | ------------- | ------------- | ------------- | ----- |
-| Lab | 21/03/2024 14:00 | Google Meet | Please send your solutions to me by 18/03/2024. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
-| Theory | 28/03/2024 14:00 | Aula Fib E  |  |
+| Lab | 13/05/2024 16:00 | Google Meet | Please send your solutions to me by 11/05/2024. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
+| Lab | 27/06/2024 14:00 | Google Meet | Please send your solutions to me by 25/06/2024. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
+| Theory | 04/06/2024 14:00 | Aula Fib C1  |  |
+| Lab | 17/06/2024 14:00 | Google Meet | Please send your solutions to me by 15/06/2024. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
+| Theory | 25/06/2024 14:00 | Aula Fib C1 |  |
+| Lab | 08/07/2024 16:00 | Google Meet | Please send your solutions to me by 06/07/2024. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
+| Theory | 16/07/2024 14:00 | Aula Fib C1  |  |
 
 
-**Very important!** You are allowed to discuss verbally solutions (e.g., a strategy to solve a problem) with other students, **BUT** you have to implement all the solutions by yourself. Thus, sharing implementations or implementing a solution with others is strictly **forbidden**.
+**Very important!** You are allowed to verbally discuss solutions (e.g., a strategy to solve a problem) with other students, **BUT** you have to implement all the solutions yourself. Thus, sharing implementations or implementing a solution with others is strictly **forbidden**.
 
 ## References
 *   Introduction to Algorithms,  3rd Edition, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, The MIT Press, 2009 ([Amazon](http://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen/dp/0262033844/ref=sr_1_1?s=books&ie=UTF8&qid=1443160441&sr=1-1&keywords=introduction+to+algorithms)) [CCLR]
