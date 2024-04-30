@@ -38,7 +38,7 @@ The goal of the class is to enable students to design and implement efficient al
 | Type | Date | Room | Note|
 | ------------- | ------------- | ------------- | ----- |
 | Lab | 13/05/2024 16:00 | Google Meet | Please send your solutions to me by 11/05/2024. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
-| Lab | 27/06/2024 14:00 | Google Meet | Please send your solutions to me by 25/06/2024. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
+| Lab | 27/05/2024 14:00 | Google Meet | Please send your solutions to me by 25/05/2024. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
 | Theory | 04/06/2024 14:00 | Aula Fib C1  |  |
 | Lab | 17/06/2024 14:00 | Google Meet | Please send your solutions to me by 15/06/2024. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
 | Theory | 25/06/2024 14:00 | Aula Fib C1 |  |
