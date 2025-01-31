@@ -5,8 +5,10 @@
 * Period: Second semester
 * Language: English
 * Classroom: [here](https://classroom.google.com/u/1/c/NjYxNTg1NzIyODc1)  (code: 7ucbcgh)
-* Lectures schedule: Tuesday 9:00-11:00 (Aula Fib C), Wednesday 9:00-11:00 (Aula Fib C), and Friday 9:00-11:00 (Aula Fib C).
+* Lectures schedule: Tuesday 9:00-11:00 (Aula Fib C), Wednesday 11:00-13:00 (Aula Fib E), and Friday 9:00-11:00 (Aula Fib C).
 * Question time: After lectures or by appointment
+
+## IMPORTANT: The first lecture will be 19/02/2025!
 
 ## Goals and opportunities
 
