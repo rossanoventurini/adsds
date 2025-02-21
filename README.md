@@ -38,10 +38,9 @@ The goal of the class is to enable students to design and implement efficient al
 
 | Type | Date | Room | Note|
 | ------------- | ------------- | ------------- | ----- |
-| Lab | 08/01/2025 14:00 | Google Meet | Please send your solutions to me by 06/01/2025. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
-| Theory | 16/01/2025 11:00 | Room C |  |
-| Lab | 30/01/2025 14:00 | Google Meet | Please send your solutions to me by 22/01/2025. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
-| Theory | 07/02/2025 11:00 | Room C1 |  |
+| Lab | 21/03/2025 14:00 | Google Meet | Please send your solutions to me by 18/03/2025. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
+| Theory | 28/03/2025 14:00 | Room E |  |
+
 
 
 **Very important!** You are allowed to verbally discuss solutions (e.g., a strategy to solve a problem) with other students, **BUT** you have to implement all the solutions yourself. Thus, sharing implementations or implementing a solution with others is strictly **forbidden**.
