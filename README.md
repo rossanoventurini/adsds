@@ -64,14 +64,12 @@ The goal of the class is to enable students to design and implement efficient al
 | 11/03/2025 | QuickSort. Best and worst cases. No average time analysis. Asymptotic notation. | CCLR Sects 7.1, 7.2, and 7.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and [Notes next 2 lectures](Notes/Quicksort22.pdf) |
 | 12/03/2025 | Lower Bound for sorting in the comparison model. | CCLR Sect. 8.1 |[Notes](Notes/Lowerbound22.pdf) |
 | 14/03/2025 | **Laboratory**: Applications of sorting (I). | | [Jupyter Notebook](Lab/Lecture_03/L03_Sorting_Applications_Greedy_Algorithms_no_sols.ipynb) **Mandatory exercises** | 
-
+| 18/03/2025 | Sorting in linear time: Counting Sort and Radix Sort. | CCLR Sect. 8.2 adn 8.3 | [VisuAlgo Sorting](https://visualgo.net/en/sorting). [Notes](Notes/LinearTimeSorting22.pdf)| 
 
 
 ## Last Year Lectures
 | Date | Lecture | References | Material |
 | -------------: | :------------- | :------------- | :------------- |
-| 19/03/2024 | Sorting in linear time: Counting Sort. | CCLR Sect. 8.2 | [VisuAlgo Sorting](https://visualgo.net/en/sorting). [Notes next 2 lectures](Notes/LinearTimeSorting22.pdf)| 
-| 20/03/2024 | Sorting in linear time: Radix Sort. | CCLR Sect. 8.3.| [VisuAlgo Sorting](https://visualgo.net/en/sorting) |
 | 22/04/2024 | Python best practices. | | |
 | 03/04/2024 | Python best practices. | | |
 | 05/04/2024 | Python best practices. | | |
