@@ -65,17 +65,17 @@ The goal of the class is to enable students to design and implement efficient al
 | 12/03/2025 | Lower Bound for sorting in the comparison model. | CCLR Sect. 8.1 |[Notes](Notes/Lowerbound22.pdf) |
 | 14/03/2025 | **Laboratory**: Applications of sorting (I). | | [Jupyter Notebook](Lab/Lecture_03/L03_Sorting_Applications_Greedy_Algorithms_no_sols.ipynb) **Mandatory exercises** | 
 | 18/03/2025 | Sorting in linear time: Counting Sort and Radix Sort. | CCLR Sect. 8.2 adn 8.3 | [VisuAlgo Sorting](https://visualgo.net/en/sorting). [Notes](Notes/LinearTimeSorting22.pdf)| 
-
+| 19/03/2025 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | [Notes](Notes/Hashing22.pdf) |
+| 25/03/2025 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | |
+| 26/03/2025 | **Laboratory**: Hashing. | | [Jupyter Notebook](Lab/Lecture_04/L04_Hashing_no_sols.ipynb) **Mandatory exercises** |
+| 28/03/2025 | Python best practices. | | |
+| 01/04/2025 | Python best practices. | | |
+| 02/04/2025 | Python best practices. | | |
+| 04/04/2025 | Python best practices. | | |
 
 ## Last Year Lectures
 | Date | Lecture | References | Material |
 | -------------: | :------------- | :------------- | :------------- |
-| 22/04/2024 | Python best practices. | | |
-| 03/04/2024 | Python best practices. | | |
-| 05/04/2024 | Python best practices. | | |
-| 08/04/2024 | Python best practices. | | |
-| 10/04/2024 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | [Notes](Notes/Hashing22.pdf) |
-| 12/04/2024 | **Laboratory**: Hashing. | | [Jupyter Notebook](Lab/Lecture_04/L04_Hashing_no_sols.ipynb) **Mandatory exercises** |
 | 16/04/2024 | QuickSelect. Priority queues: Heap. | CCLR Sect. 9.1, 9.2 and CCLR Ch. 6 | [Notes next 3 lectures](Notes/Heap.pdf) |
 | 17/04/2024 | Priority queues: Heap. | CCLR Ch. 6 | [VisuAlgo Heap](https://visualgo.net/en/heap?slide=1) | 
 | 19/04/2024 | **Laboratory**: Hashing: Applications.  | | [Jupyter Notebook](Lab/Lecture_05/L05_Hashing_Applications_no_sols.ipynb) **Mandatory exercises** |
