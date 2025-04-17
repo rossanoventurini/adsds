@@ -13,10 +13,10 @@
 
 The course introduces basic data structures and algorithmic techniques that allow students to solve computational problems on the most important data types, such as sequences, sets, trees, and graphs.
 
-The lectures will be complemented by an intensive activity in laboratory.
+An intensive laboratory activity will complement the lectures.
 Students will experiment with algorithms and data structures by writing their own implementations or by using third-party libraries.
 
-The goal of the class is to enable students to design and implement efficient algorithms, choosing the most appropriate solutions in their future projects.
+The class's goal is to enable students to design and implement efficient algorithms, choosing the most appropriate solutions for their future projects.
 
 ### Syllabus
 
@@ -24,13 +24,13 @@ The goal of the class is to enable students to design and implement efficient al
 
 - Computational complexity analysis of algorithms.
 
-- Sorting: Mergesort, Quicksort and Heapsort.
+- Sorting: Mergesort, Quicksort, and Heapsort.
 
 - Searching: Binary Search, Binary Search Tree, Trie, and Hashing.
 
 - Algorithms on Trees: representation and traversals.
 
-- Algorithms on Graphs: representation, traversals, and most important problems.
+- Algorithms on Graphs: representation, traversals, and the most important problems.
 
 - External memory model: sorting and searching.
 
@@ -38,8 +38,12 @@ The goal of the class is to enable students to design and implement efficient al
 
 | Type | Date | Room | Note|
 | ------------- | ------------- | ------------- | ----- |
-| Lab | 21/03/2025 14:00 | Google Meet | Please send your solutions to me by 18/03/2025. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
-| Theory | 28/03/2025 14:00 | Room E |  |
+| Lab | 04/06/2025 14:00 | [Google Meet](https://meet.google.com/kwr-arcz-xcq) | Please send your solutions to me by 01/06/2025. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
+| Theory | 10/06/2025 9:30 | Room C |  |
+| Lab | 25/06/2025 14:00 | [Google Meet](https://meet.google.com/kwr-arcz-xcq)  | Please send your solutions to me by 21/06/2025. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
+| Theory | 02/07/2025 9:30 | Room C |  |
+| Lab | 17/07/2025 14:00 | [Google Meet](https://meet.google.com/kwr-arcz-xcq)  | Please send your solutions to me by 14/07/2025. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
+| Theory | 24/07/2025 11:00 | Room C |  |
 
 **Very important!** You are allowed to verbally discuss solutions (e.g., a strategy to solve a problem) with other students, **BUT** you have to implement all the solutions yourself. Thus, sharing implementations or implementing a solution with others is strictly **forbidden**.
 
