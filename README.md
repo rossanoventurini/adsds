@@ -84,10 +84,10 @@ The class's goal is to enable students to design and implement efficient algorit
 | 06/04/2025 | Exercises: Visits of a tree. |  | [Notes next 2 lectures](Notes/Trees.pdf) | |
 | 07/05/2025 | Exercises: Visits of a tree. |  | | | 
 | 09/05/2025 | **Laboratory**: Applications of sorting (II). | | [Jupyter Notebook](Lab/Lecture_06/L06_Sorting_Applications_II_no_sols.ipynb) **Mandatory exercises** |
-| 13/05/2025 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | [Notes next 2 lectures](Notes/Graphs.pdf) | 
-| 14/05/2025 | Graphs: DFS. |CCLR Sect. 22.3 (no proofs) | [Graph representations](https://visualgo.net/en/graphds) and [BFS/DFS](https://visualgo.net/en/dfsbfs) |
+| 13/05/2025 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | [Notes next 3 lectures](Notes/Graphs.pdf) | 
+| 14/05/2025 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | | 
 | 16/05/2025 | **Laboratory**: Binary Search Tree.  | | [Jupyter Notebook](Lab/Lecture_07/L07_Binary_Search_Tree_no_sols.ipynb) **Mandatory exercises** |
-| 21/05/2025 | Exercises | [Notes](Notes/Exam20210610_sol.pdf) |
-| 23/05/2025 | Exercises | [Notes](Notes/Exam20210723_sol.pdf)|
+| 21/05/2025 | Graphs: DFS. |CCLR Sect. 22.3 (no proofs) | [Graph representations](https://visualgo.net/en/graphds) and [BFS/DFS](https://visualgo.net/en/dfsbfs) |
+| 23/05/2025 | Exercises | [Notes](Notes/Exam20210610_sol.pdf) [Notes](Notes/Exam20210723_sol.pdf)|
 | 28/05/2025 | **Laboratory**: Graphs.  | | [Jupyter Notebook](Lab/Lecture_08/L08_Graphs_with_NetworkX_no_sols.ipynb) **Mandatory exercises** |
 
