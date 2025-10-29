@@ -38,8 +38,8 @@ The class's goal is to enable students to design and implement efficient algorit
 
 | Type | Date | Room | Note|
 | ------------- | ------------- | ------------- | ----- |
-| Lab | 02/09/2025 14:00 | [Google Meet](https://meet.google.com/kwr-arcz-xcq) | Please send your solutions to me by 01/09/2025. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
-| Theory | 08/09/2025 9:30 | Room M1 |  |
+| Lab | 06/11/2025 14:00 | [Google Meet](https://meet.google.com/kwr-arcz-xcq) | Please send your solutions to me by 04/11/2025. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
+| Theory | 13/11/2025 11:00 | Room MyOffice |  |
 
 
 **Very important!** You are allowed to verbally discuss solutions (e.g., a strategy to solve a problem) with other students, **BUT** you have to implement all the solutions yourself. Thus, sharing implementations or implementing a solution with others is strictly **forbidden**.
