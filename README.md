@@ -38,7 +38,7 @@ The class's goal is to enable students to design and implement efficient algorit
 
 | Type | Date | Room | Note|
 | ------------- | ------------- | ------------- | ----- |
-| Lab | 20/03/2026 14:00 | [Google Meet](https://meet.google.com/kwr-arcz-xcq) | Please send your solutions to me by 16/03/2026. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
+| Lab | 23/03/2026 14:00 | [Google Meet](https://meet.google.com/kwr-arcz-xcq) | Please send your solutions to me by 20/03/2026. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
 | Theory | 27/03/2026 14:00 | Room E |  |
 
 
