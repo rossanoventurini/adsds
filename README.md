@@ -38,10 +38,9 @@ The class's goal is to enable students to design and implement efficient algorit
 
 | Type | Date | Room | Note|
 | ------------- | ------------- | ------------- | ----- |
-| Lab | 07/01/2026 16:00 | [Google Meet](https://meet.google.com/kwr-arcz-xcq) | Please send your solutions to me by 04/01/2026. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
-| Theory | 08/01/2026 14:00 | Room D1 |  |
-| Lab | 30/01/2026 16:00 | [Google Meet](https://meet.google.com/kwr-arcz-xcq) | Please send your solutions to me by 27/01/2026. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
-| Theory | 05/02/2026 14:00 | Room C |  |
+| Lab | 20/03/2026 14:00 | [Google Meet](https://meet.google.com/kwr-arcz-xcq) | Please send your solutions to me by 16/03/2026. **Important:**  Please Cut&Paste your solutions to this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me just this file** with your name and surname on its filename. Please read the very important note below. |
+| Theory | 27/03/2026 14:00 | Room E |  |
+
 
 
 **Very important!** You are allowed to verbally discuss solutions (e.g., a strategy to solve a problem) with other students, **BUT** you have to implement all the solutions yourself. Thus, sharing implementations or implementing a solution with others is strictly **forbidden**.
