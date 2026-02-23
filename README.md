@@ -53,7 +53,7 @@ The class's goal is to enable students to design and implement efficient algorit
 ## Lectures
 | Date | Lecture | References | Material |
 | -------------: | :------------- | :------------- | :------------- |
-| 16/02/2026 | Introduction to analysis of algorithms.| CCLR Sect. 2.1 | [Notes next 3 lectures](Notes/Analysis22.pdf)|
+| 16/02/2026 | Introduction to analysis of algorithms.| CCLR Sect. 2.1 | [Notes next 4 lectures](Notes/Analysis26.pdf)|
 | 18/02/2026 | Insertion Sort: Correctness and analysis.| CCLR Sect. 2.2 | [VisuAlgo Sorting](https://visualgo.net/en/sorting) |
 | 19/02/2026 | Insertion Sort: Correctness and analysis.| CCLR Sect. 2.2 | [VisuAlgo Sorting](https://visualgo.net/en/sorting) |
 | 23/02/2026 | Selection Sort: Correctness and analysis.|  | [Selection Sort vs Insertion Sort ](Notes/L01_Insertion_Sort_vs_Selection_Sort.ipynb) and [VisuAlgo Sorting](https://visualgo.net/en/sorting)|
