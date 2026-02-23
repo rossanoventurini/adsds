@@ -6,7 +6,7 @@
 * Language: English
 * Telegram: [here](https://t.me/+Vf7FqiCLEPw1NmI0)
 * Teams: [here](https://teams.microsoft.com/l/team/19%3APhmXqG49uhpl5VZlTXjiVL9p552czBJ7ksHO_Xrqk901%40thread.tacv2/conversations?groupId=bfce4a8d-c6ac-4cda-9e74-17a775351760&tenantId=c7456b31-a220-47f5-be52-473828670aa1)
-* Lectures schedule: Monday 11:00-13:00 (Aula Fib C1), Wednesday 11:00-13:00 (Aula Fib E), and Thursday 9:00-11:00 (Aula Fib C).
+* Lectures schedule: Monday 11:00-13:00 (Aula Fib E), Wednesday 11:00-13:00 (Aula Fib E), and Thursday 9:00-11:00 (Aula Fib C).
 * Question time: After lectures or by appointment
 
 ## Goals and opportunities
