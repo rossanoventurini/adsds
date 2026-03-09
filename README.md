@@ -62,15 +62,14 @@ The class's goal is to enable students to design and implement efficient algorit
 | 02/03/2026 | Divide and Conquer. Merge Sort Analysis. | CCLR Sect. 2.3  | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and  [Notes next 2 lectures](Notes/Mergesort22.pdf) |
 | 04/03/2026 | Divide and Conquer. Merge Sort Analysis and other recurrences. | CCLR Sect. 2.3  | |
 | 06/03/2026 | **Laboratory**: MergeSort and QuickSort. | | [Jupyter Notebook](Lab/Lecture_02/L02_Sorting_no_sols.ipynb) **Mandatory exercises** | 
-| 09/03/2026 | Binary search. QuickSort. Best and worst cases. No average time analysis. |  CCLR Sect 3.1. CCLR Sects 7.1, 7.2, and 7.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and [Notes next 2 lectures](Notes/Quicksort22.pdf)
+| 09/03/2026 | QuickSort. Best and worst cases. No average time analysis. |  CCLR Sect 3.1. CCLR Sects 7.1, 7.2, and 7.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and [Notes next 2 lectures](Notes/Quicksort22.pdf)|
+| 11/03/2026 | QuickSort. Best and worst cases. No average time analysis. Asymptotic notation. | CCLR Sects 7.1, 7.2, and 7.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and [Notes next 2 lectures](Notes/Quicksort22.pdf) |
+| 12/03/2026 | **Laboratory**: Applications of sorting (I). | | [Jupyter Notebook](Lab/Lecture_03/L03_Sorting_Applications_Greedy_Algorithms_no_sols.ipynb) **Mandatory exercises** | 
 
 ## Last Year Lectures
 | Date | Lecture | References | Material |
-| -------------: | :------------- | :------------- | :------------- |) |
-| 07/03/2025 | **Laboratory**: MergeSort and QuickSort. | | [Jupyter Notebook](Lab/Lecture_02/L02_Sorting_no_sols.ipynb) **Mandatory exercises** | 
-| 11/03/2025 | QuickSort. Best and worst cases. No average time analysis. Asymptotic notation. | CCLR Sects 7.1, 7.2, and 7.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and [Notes next 2 lectures](Notes/Quicksort22.pdf) |
+| -------------: | :------------- | :------------- | :------------- |
 | 12/03/2025 | Lower Bound for sorting in the comparison model. | CCLR Sect. 8.1 |[Notes](Notes/Lowerbound22.pdf) |
-| 14/03/2025 | **Laboratory**: Applications of sorting (I). | | [Jupyter Notebook](Lab/Lecture_03/L03_Sorting_Applications_Greedy_Algorithms_no_sols.ipynb) **Mandatory exercises** | 
 | 18/03/2025 | Sorting in linear time: Counting Sort and Radix Sort. | CCLR Sect. 8.2 adn 8.3 | [VisuAlgo Sorting](https://visualgo.net/en/sorting). [Notes](Notes/LinearTimeSorting22.pdf)| 
 | 19/03/2025 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | [Notes](Notes/Hashing22.pdf) |
 | 25/03/2025 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | |
