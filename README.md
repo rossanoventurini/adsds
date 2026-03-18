@@ -63,17 +63,18 @@ The class's goal is to enable students to design and implement efficient algorit
 | 04/03/2026 | Divide and Conquer. Merge Sort Analysis and other recurrences. | CCLR Sect. 2.3  | |
 | 06/03/2026 | **Laboratory**: MergeSort and QuickSort. | | [Jupyter Notebook](Lab/Lecture_02/L02_Sorting_no_sols.ipynb) **Mandatory exercises** | 
 | 09/03/2026 | No lecture due to national strike | | | 
-| 11/03/2026 | QuickSort. Best and worst cases. No average time analysis. |  CCLR Sect 3.1. CCLR Sects 7.1, 7.2, and 7.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and [Notes next 2 lectures](Notes/Quicksort22.pdf)|
+| 11/03/2026 | QuickSort. Best and worst cases. No average time analysis. |  CCLR Sect 3.1. CCLR Sects 7.1, 7.2, and 7.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and [Notes next 2 lectures](Notes/QuickSort_2026.pdf)|
 | 12/03/2026 | **Laboratory**: Applications of sorting (I). | | [Jupyter Notebook](Lab/Lecture_03/L03_Sorting_Applications_Greedy_Algorithms_no_sols.ipynb) **Mandatory exercises** | 
 | 16/03/2026 | QuickSort. Best and worst cases. No average time analysis. Asymptotic notation. | CCLR Sects 7.1, 7.2, and 7.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and [Notes next 2 lectures](Notes/Quicksort22.pdf) |
+| 18/03/2026 | Lower Bound for sorting in the comparison model. | CCLR Sect. 8.1 |[Notes](Notes/Lowerbound22.pdf) |
+| 19/03/2026 | Sorting in linear time: Counting Sort and Radix Sort. | CCLR Sect. 8.2 and 8.3 | [VisuAlgo Sorting](https://visualgo.net/en/sorting). [Notes](Notes/LinearTimeSorting22.pdf)| 
+| 25/03/2025 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | [Notes](Notes/Hashing22.pdf) |
+| 26/03/2025 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | |
+
 
 ## Last Year Lectures
 | Date | Lecture | References | Material |
 | -------------: | :------------- | :------------- | :------------- |
-| 12/03/2025 | Lower Bound for sorting in the comparison model. | CCLR Sect. 8.1 |[Notes](Notes/Lowerbound22.pdf) |
-| 18/03/2025 | Sorting in linear time: Counting Sort and Radix Sort. | CCLR Sect. 8.2 adn 8.3 | [VisuAlgo Sorting](https://visualgo.net/en/sorting). [Notes](Notes/LinearTimeSorting22.pdf)| 
-| 19/03/2025 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | [Notes](Notes/Hashing22.pdf) |
-| 25/03/2025 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | |
 | 26/03/2025 | **Laboratory**: Hashing. | | [Jupyter Notebook](Lab/Lecture_04/L04_Hashing_no_sols.ipynb) **Mandatory exercises** |
 | 28/03/2025 | Python best practices. | | |
 | 01/04/2025 | Python best practices. | | |
@@ -86,8 +87,8 @@ The class's goal is to enable students to design and implement efficient algorit
 | 29/04/2025 | Binary Search tree. | CCLR Sect. 12.1, 12.2, and 12.3  | [Visualgo BST](https://visualgo.net/en/bst) | [Notes for next two lectures](Notes/Bst.pdf) |
 | 30/04/2025 | Binary Search tree. | CCLR Sect. 12.1, 12.2, and 12.3  | [Visualgo BST](https://visualgo.net/en/bst) |  | 
 | 02/05/2025 | **Laboratory**: Hashing: Applications.  | | [Jupyter Notebook](Lab/Lecture_05/L05_Hashing_Applications_no_sols.ipynb) **Mandatory exercises** |
-| 06/04/2025 | Exercises: Visits of a tree. |  | [Notes next 2 lectures](Notes/Trees.pdf) | |
-| 07/05/2025 | Exercises: Visits of a tree. |  | | | 
+| 06/04/2025 | Exercises: Visits a tree. |  | [Notes next 2 lectures](Notes/Trees.pdf) | |
+| 07/05/2025 | Exercises: Visits a tree. |  | | | 
 | 09/05/2025 | **Laboratory**: Applications of sorting (II). | | [Jupyter Notebook](Lab/Lecture_06/L06_Sorting_Applications_II_no_sols.ipynb) **Mandatory exercises** |
 | 13/05/2025 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | [Notes next 3 lectures](Notes/Graphs.pdf) | 
 | 14/05/2025 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | | 
