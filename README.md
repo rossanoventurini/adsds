@@ -68,14 +68,14 @@ The class's goal is to enable students to design and implement efficient algorit
 | 16/03/2026 | QuickSort. Best and worst cases. No average time analysis. Asymptotic notation. | CCLR Sects 7.1, 7.2, and 7.3. | [VisuAlgo Sorting](https://visualgo.net/en/sorting) and [Notes next 2 lectures](Notes/Quicksort22.pdf) |
 | 18/03/2026 | Lower Bound for sorting in the comparison model. | CCLR Sect. 8.1 |[Notes](Notes/Lowerbound22.pdf) |
 | 19/03/2026 | Sorting in linear time: Counting Sort and Radix Sort. | CCLR Sect. 8.2 and 8.3 | [VisuAlgo Sorting](https://visualgo.net/en/sorting). [Notes](Notes/LinearTimeSorting22.pdf)| 
-| 25/03/2025 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | [Notes](Notes/Hashing22.pdf) |
-| 26/03/2025 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | |
-
+| 25/03/2026 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | [Notes](Notes/Hashing22.pdf) |
+| 26/03/2026 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | |
+| 08/04/2026 | Dictionary problem with Hashing.| CCLR Sect. 11.1, 11.2, and 11.4 (no analysis) | |
+| 09/04/2026 | **Laboratory**: Hashing. | | [Jupyter Notebook](Lab/Lecture_04/L04_Hashing_no_sols.ipynb) **Mandatory exercises** |
 
 ## Last Year Lectures
 | Date | Lecture | References | Material |
 | -------------: | :------------- | :------------- | :------------- |
-| 26/03/2025 | **Laboratory**: Hashing. | | [Jupyter Notebook](Lab/Lecture_04/L04_Hashing_no_sols.ipynb) **Mandatory exercises** |
 | 28/03/2025 | Python best practices. | | |
 | 01/04/2025 | Python best practices. | | |
 | 02/04/2025 | Python best practices. | | |
