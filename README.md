@@ -91,7 +91,7 @@ The class's goal is to enable students to design and implement efficient algorit
 | 13/05/2026 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | [Notes next 3 lectures](Notes/Graphs.pdf) | 
 | 14/05/2026 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | | 
 | 18/05/2026 | Graphs: DFS. |CCLR Sect. 22.3 (no proofs) | [Graph representations](https://visualgo.net/en/graphds) and [BFS/DFS](https://visualgo.net/en/dfsbfs) |
-| 19/05/2026 | Exercises | [Exercise 1](Notes/Exam20210610_sol.pdf) and [Exercise 2](Notes/Exam20210723_sol.pdf)|
+| 20/05/2026 | Exercises | [Exercise 1](Notes/Exam20210610_sol.pdf) and [Exercise 2](Notes/Exam20210723_sol.pdf)|
 
 ## Last Year Lectures
 | Date | Lecture | References | Material |
