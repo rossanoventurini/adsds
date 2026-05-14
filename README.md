@@ -83,15 +83,14 @@ The class's goal is to enable students to design and implement efficient algorit
 | 27/04/2026 | QuickSelect. Priority queues: Heap. | CCLR Sect. 9.1, 9.2 and CCLR Ch. 6 | [Notes next 3 lectures](Notes/Heap.pdf) |
 | 29/04/2026 | Priority queues: Heap. | CCLR Ch. 6 | [VisuAlgo Heap](https://visualgo.net/en/heap?slide=1) | 
 | 30/04/2026 | **Laboratory**: Applications of sorting (II). | | [Jupyter Notebook](Lab/Lecture_06/L06_Sorting_Applications_II_no_sols.ipynb) **Mandatory exercises** |
-| 29/04/2026 | Binary Search tree. | CCLR Sect. 12.1, 12.2, and 12.3  | [Visualgo BST](https://visualgo.net/en/bst) | [Notes for next two lectures](Notes/Bst.pdf) |
-| 04/05/2026 | Binary Search tree. | CCLR Sect. 12.1, 12.2, and 12.3  | [Visualgo BST](https://visualgo.net/en/bst) |  | 
-| 06/05/2026 | Exercises: Visits a tree. |  | [Notes next 2 lectures](Notes/Trees.pdf) | |
-| 08/05/2026 | **Laboratory**: Binary Search Tree.  | | [Jupyter Notebook](Lab/Lecture_07/L07_Binary_Search_Tree_no_sols.ipynb) **Mandatory exercises** |
-| 11/05/2026 | Exercises: Visits a tree. |  | | | 
-| 13/05/2026 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | [Notes next 3 lectures](Notes/Graphs.pdf) | 
-| 14/05/2026 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | | 
-| 18/05/2026 | Graphs: DFS. |CCLR Sect. 22.3 (no proofs) | [Graph representations](https://visualgo.net/en/graphds) and [BFS/DFS](https://visualgo.net/en/dfsbfs) |
-| 20/05/2026 | Exercises | [Exercise 1](Notes/Exam20210610_sol.pdf) and [Exercise 2](Notes/Exam20210723_sol.pdf)|
+| 04/05/2026 | Binary Search tree. | CCLR Sect. 12.1, 12.2, and 12.3  | [Visualgo BST](https://visualgo.net/en/bst) | [Notes for next two lectures](Notes/Bst.pdf) |
+| 11/05/2026 | Binary Search tree. | CCLR Sect. 12.1, 12.2, and 12.3  | [Visualgo BST](https://visualgo.net/en/bst) |  | 
+| 13/05/2026 | Exercises: Visits a tree. |  | [Notes next 2 lectures](Notes/Trees.pdf) | |
+| 14/05/2026 | **Laboratory**: Binary Search Tree.  | | [Jupyter Notebook](Lab/Lecture_07/L07_Binary_Search_Tree_no_sols.ipynb) **Mandatory exercises** |
+| 14/05/2026 | Exercises: Visits a tree. |  | | | 
+| 18/05/2026 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | [Notes next 3 lectures](Notes/Graphs.pdf) | 
+| 20/05/2026 | Graphs: DFS. |CCLR Sect. 22.3 (no proofs) | [Graph representations](https://visualgo.net/en/graphds) and [BFS/DFS](https://visualgo.net/en/dfsbfs) |
+| 21/05/2026 | Exercises | [Exercise 1](Notes/Exam20210610_sol.pdf) and [Exercise 2](Notes/Exam20210723_sol.pdf)|
 
 ## Last Year Lectures
 | Date | Lecture | References | Material |
