@@ -90,11 +90,11 @@ The class's goal is to enable students to design and implement efficient algorit
 | 14/05/2026 | Exercises: Visits a tree. |  | | | 
 | 18/05/2026 | Graphs: representations and BFS. |CCLR Sect. 22.1 and 22.2 (no proofs) | [Notes next 3 lectures](Notes/Graphs.pdf) | 
 | 20/05/2026 | Graphs: DFS. |CCLR Sect. 22.3 (no proofs) | [Graph representations](https://visualgo.net/en/graphds) and [BFS/DFS](https://visualgo.net/en/dfsbfs) |
-| 21/05/2026 | Exercises | [Exercise 1](Notes/Exam20210610_sol.pdf) and [Exercise 2](Notes/Exam20210723_sol.pdf)|
 
 ## Last Year Lectures
 | Date | Lecture | References | Material |
 | -------------: | :------------- | :------------- | :------------- |
+| 21/05/2025 | Exercises | [Exercise 1](Notes/Exam20210610_sol.pdf) and [Exercise 2](Notes/Exam20210723_sol.pdf)|
 | 23/04/2025 | Priority queues: Heap. | CCLR Ch. 6 | [VisuAlgo Heap](https://visualgo.net/en/heap?slide=1) |
 | 28/05/2025 | **Laboratory**: Graphs.  | | [Jupyter Notebook](Lab/Lecture_08/L08_Graphs_with_NetworkX_no_sols.ipynb) **Mandatory exercises** |
 
