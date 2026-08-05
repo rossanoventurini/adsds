@@ -38,14 +38,10 @@ The class's goal is to enable students to design and implement efficient algorit
 
 | Type | Date | Room | Note|
 | ------------- | ------------- | ------------- | ----- |
-| Lab | 27/05/2026 14:00 | My Office or [Google Meet](https://meet.google.com/kwr-arcz-xcq) | Please send your solutions to me by 25/05/2026 and specify whether you would like to attend online or in person. Important: Please copy and paste your solutions into this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me only this file**, with your name and surname in the filename.|
-| Theory | 05/06/2026 11:00 | Room C1 |  |
-| Lab | 23/06/2026 14:00 | My Office or [Google Meet](https://meet.google.com/kwr-arcz-xcq) | Please send your solutions to me by 22/06/2026 and specify whether you would like to attend online or in person. Important: Please copy and paste your solutions into this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me only this file**, with your name and surname in the filename.|
-| Theory | 26/06/2026 9:30 | Room C1 |  |
-| Lab | 09/07/2026 14:00 | My Office or [Google Meet](https://meet.google.com/kwr-arcz-xcq) | Please send your solutions to me by 07/07/2026 and specify whether you would like to attend online or in person. Important: Please copy and paste your solutions into this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me only this file**, with your name and surname in the filename.|
-| Theory | 17/07/2026 9:30 | Room C1 |  |
+| Lab | 01/09/2026 14:00 | My Office or [Google Meet](https://meet.google.com/kwr-arcz-xcq) | Please send your solutions to me by 29/08/2026 and specify whether you would like to attend online or in person. Important: Please copy and paste your solutions into this [Jupyter Notebook](Lab/Solutions_NAME_SURNAME.ipynb) and **send me only this file**, with your name and surname in the filename.|
+| Theory | 03/09/2026 11:00 | Room C1 |  |
 
-**Very important!** You are allowed to verbally discuss solutions (e.g., a strategy to solve a problem) with other students, **BUT** you have to implement all the solutions yourself. Thus, sharing implementations or implementing a solution with others is strictly **forbidden**.
+**Very important!** You are allowed to verbally discuss solutions (e.g., strategies to solve a problem) with other students, **BUT** you have to implement all solutions yourself. Thus, sharing implementations or implementing a solution with others is strictly **forbidden**.
 
 ## References
 *   Introduction to Algorithms,  3rd Edition, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, The MIT Press, 2009 ([Amazon](http://www.amazon.com/Introduction-Algorithms-3rd-Thomas-Cormen/dp/0262033844/ref=sr_1_1?s=books&ie=UTF8&qid=1443160441&sr=1-1&keywords=introduction+to+algorithms)) [CCLR]
